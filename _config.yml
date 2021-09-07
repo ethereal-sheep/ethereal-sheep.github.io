@@ -16,7 +16,7 @@ author: Cantius Chew
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Blockdrop: "blockdrop"
+    - Blockdrop: "_posts/2020-12-01-blockdrop.md"
 
 # --- Logo --- #
 
